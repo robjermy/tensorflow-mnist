@@ -1,0 +1,4 @@
+.venv
+.vscode
+MNIST-data
+tmp
