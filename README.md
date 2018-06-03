@@ -14,7 +14,7 @@ python -m virtualenv .venv
 
 ./.venv/Scripts/activate.ps1
 
-pip install
+pip install -r requirements.txt
 
 python cnn_mnist.py
 ```
