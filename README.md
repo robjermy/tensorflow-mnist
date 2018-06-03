@@ -12,5 +12,9 @@ The MNIST database contains thousands of images of handwritten characters.
 ```bash
 python -m virtualenv .venv
 
+./.venv/Scripts/activate.ps1
+
+pip install
+
 python cnn_mnist.py
 ```
