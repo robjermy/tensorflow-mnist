@@ -18,3 +18,10 @@ pip install
 
 python cnn_mnist.py
 ```
+
+## Visualizing with tensorboard
+> Served on http://localhost:6006
+
+```bash
+tensorboard --logdir ./tmp/mnist_convnet_model
+```
